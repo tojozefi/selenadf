@@ -1,0 +1,10 @@
+{
+	"name": "selenakv",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://selenakv.vault.azure.net/"
+		}
+	}
+}
